@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Gabriel Baltazar (@gbalttazar)
 
-- 👀 I’m interested in systems development, cloud technologies, and databases.
-- 🌱 I’m currently learning more about Machine Learning, Java, and backend development.
-- 💞️ I’m looking to collaborate on projects that involve data analysis, backend systems, and IoT.
+- 👀 Tenho interesse em Banco de Dados, IOT, Machine Learnig...
+- 🌱 No momento estou quase me formando em Analise e Desenvolvimento de Sistemas.
+- 💞️ Estou buscando colaborar em projetos que envolvam análise de dados, sistemas backend e IoT.
 
 ---
 
@@ -19,12 +19,6 @@
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbalttazar&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=gbalttazar&theme=onedark)
 
 ---
 

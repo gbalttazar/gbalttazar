@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about Machine Learning, Java, and backend development.
 - 💞️ I’m looking to collaborate on projects that involve data analysis, backend systems, and IoT.
 
-[![CV](https://cdn-icons-png.flaticon.com/512/149/149336.png)]([https://drive.google.com/file/d/1G5uROrn1xYBwm4KMEY3fLthrSXUI8vYq/view])].
+[![CV](https://cdn-icons-png.flaticon.com/512/149/149336.png)]([https://drive.google.com/file/d/1G5uROrn1xYBwm4KMEY3fLthrSXUI8vYq/view])
 
 
  

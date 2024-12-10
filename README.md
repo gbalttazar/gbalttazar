@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Gabriel Baltazar (@gbalttazar)
 Email : baltazar.sit@outlook.com
 
-- 👀 Tenho interesse em Banco de Dados, IOT, Machine Learnig...
-- 🌱 No momento estou quase me formando em Analise e Desenvolvimento de Sistemas.
+- 👀 Tenho interesse em SQL, PL/SQL, NOSQL, IOT, Machine Learnig...
+- 🌱 Recém formado em Analise e Desenvolvimento de Sistemas.
 - 💞️ Estou buscando colaborar em projetos que envolvam análise de dados, sistemas backend e IoT.
-- 👋 De uma olha em meus projetos!
+- 👋 De uma olhada em meus projetos!
   
 
 ---

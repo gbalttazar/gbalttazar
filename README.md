@@ -2,7 +2,8 @@
 Email : baltazar.sit@outlook.com
 
 - 👀 Tenho interesse em SQL, PL/SQL, NOSQL, IOT, Machine Learnig...
-- 🌱 Recém formado em Analise e Desenvolvimento de Sistemas.
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas.
+- 🌱 Cursando Ciência de Dados
 - 💞️ Estou buscando colaborar em projetos que envolvam análise de dados, sistemas backend e IoT.
 - 👋 De uma olhada em meus projetos!
   
